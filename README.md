@@ -14,13 +14,16 @@ Meridian Financial Services is a fictional financial services organization. It p
 
 | Folder | Contents |
 |---|---|
-| `01-Governance` | IT Audit Charter, governance model, roles and responsibilities |
-| `02-Risk-Assessment` | Risk universe, risk register, risk analysis and prioritization |
-| `03-Audit-Planning` | Audit objectives, scope, criteria, work program and sampling approach |
-| `04-Control-Testing` | Control test plans, procedures, evidence logs and test results |
-| `05-Audit-Findings` | Draft findings, root-cause analysis, risk ratings and reporting |
-| `06-Remediation` | Corrective action plans, ownership, due dates and validation |
-| `07-References` | Framework references, definitions and supporting material |
+| `01-Governance` | Internal Audit Charter, audit authority, independence, roles and responsibilities |
+| `02-Organizational-Background` | MFS company profile, organizational structure, business operations, departments and IT environment |
+| `03-Annual-Risk-Assessment` | Risk universe, enterprise-wide risk register, risk analysis and prioritization |
+| `04-Risk-Based-Audit-Plan` | Annual audit plan, audit universe coverage, audit priorities and proposed engagements |
+| `05-Company-Risk-Assessment` | Engagement-specific risk assessment, identified risks, inherent risk, control environment and residual risk |
+| `06-Audit-Work-Program` | Audit objectives, scope, criteria, audit procedures and sampling approach |
+| `07-Audit-Testing-Evidence` | Control test plans, testing procedures, evidence logs, sample results and test conclusions |
+| `08-Audit-Findings-Reporting` | Audit findings, root-cause analysis, risk ratings, recommendations and final audit reports |
+| `09-Follow-Up-Remediation` | Corrective action plans, management ownership, due dates, remediation tracking and validation |
+| `10-References` | Framework references, audit standards, definitions and supporting materials |
 
 ## Home-lab environment
 
