@@ -16,7 +16,7 @@ Meridian Financial Services is a fictional financial services organization. It p
 |---|---|
 | `01-Governance` | Internal Audit Charter, audit authority, independence, roles and responsibilities |
 | `02-Organizational-Background` | MFS company profile, organizational structure, business operations, departments and IT environment |
-| `03-Annual-Risk-Assessment` | Risk universe, enterprise-wide risk register, risk analysis and prioritization |
+| `03-Annual-Risk-Assessment` | Organizational Risk Universe, consolidated Risk Register, annual risk assessment, risk analysis and prioritization |
 | `04-Risk-Based-Audit-Plan` | Annual audit plan, audit universe coverage, audit priorities and proposed engagements |
 | `05-Company-Risk-Assessment` | Engagement-specific risk assessment, identified risks, inherent risk, control environment and residual risk |
 | `06-Audit-Work-Program` | Audit objectives, scope, criteria, audit procedures and sampling approach |
